@@ -2,7 +2,7 @@
 name = "webscraping"
 version = "0.1.0"
 description = ""
-authors = ["Shinichiro Saito <52438398+sinchir0@users.noreply.github.com>"]
+authors = [""]
 
 [tool.poetry.dependencies]
 python = "3.9.7"
